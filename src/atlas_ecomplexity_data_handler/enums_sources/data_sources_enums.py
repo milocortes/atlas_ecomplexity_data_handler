@@ -20,7 +20,7 @@ class GetFileName:
 class CountryTradePartnerProduct(GetFileName, Enum):
     hs92 = "hs92_country_country_product_year_6_2020_2023.csv"
     hs12 = "hs12_country_country_product_year_6_2020_2023.csv"
-    sitc = "sitc_country_country_product_year_6_2020_2023.csv"
+    sitc = "sitc_country_country_product_year_4_2020_2023.csv"
     
 
 # Define Enums for the Atlas Product Classification
